@@ -9,7 +9,7 @@ description = "The electronics calculations you keep Googling: IPC-2221 trace wi
 readme = "README.md"
 license = "MIT"
 authors = [{ name = "Aysel Elshenawy" }]
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 dependencies = []
 keywords = ["electronics", "electrical-engineering", "pcb", "ipc-2221", "e-series", "resistor", "calculator"]
 classifiers = [
